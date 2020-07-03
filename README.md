@@ -1,5 +1,7 @@
 # List of Projects
 
+Please click the titles to see details.
+
 ## [Buzz Prediction in Twitter](https://github.com/espseongsm/Buzz_prediction_on_twitter)
 
 - Language: R
