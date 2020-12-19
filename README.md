@@ -2,6 +2,7 @@
 
 **Please click the titles to see details.**
 ## [Solutions for LeetCode Database Questions, using Pandas](https://github.com/espseongsm/LeetCodeDatabaseSolutions/blob/main/SolutionsForLeetCodeDatabaseQuestion.ipynb)
+Normally, LeetCode database questions are implementing SQL, but Pandas has great features that make data manipulation easy. So you can see solutions using Pandas in Jupyter Notebook.
 
 ## [Buzz Prediction in Twitter](https://github.com/espseongsm/Buzz_prediction_on_twitter)
 
