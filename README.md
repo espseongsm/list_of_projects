@@ -3,11 +3,11 @@
 **Please click the titles to see details.**
 ## Data Manipulation
 
-Normally, database questions are implementing SQL, but Pandas has great features that make data manipulation easy. So you can see solutions using Pandas in Jupyter Notebook.
+Normally, database questions are implementing SQL, but Pandas has great features that make data manipulation easy. So you can see solutions using both Pandas and SQL in Jupyter Notebook.
 
 - [Solutions for LeetCode Database Questions, using Pandas](https://github.com/espseongsm/LeetCodeDatabaseQuestions/blob/master/SolutionsForLeetCodeDatabaseSolutions.ipynb)
 
-- [Solutions for HackerRank SQL Question, using Pandas](https://github.com/espseongsm/HackerRankSQLSolutions/blob/main/SolutionsForHackerRankSQL.ipynb)
+- [Solutions for HackerRank SQL Question, using Pandas and SQL](https://github.com/espseongsm/HackerRankSQLSolutions/blob/main/SolutionsForHackerRankSQL.ipynb)
 
 ## [Buzz Prediction in Twitter](https://github.com/espseongsm/Buzz_prediction_on_twitter)
 
