@@ -1,7 +1,7 @@
 # List of Projects
 
 **Please click the titles to see details.**
-## Data Manipulation
+## Data Manipulation - Pandas and SQL
 
 Normally, database questions are implementing SQL, but Pandas has great features that make data manipulation easy. So you can see solutions using both Pandas and SQL in Jupyter Notebook.
 
